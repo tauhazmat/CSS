@@ -28,8 +28,6 @@ Feel free to clone this repository or fork it for personal use, educational purp
 
 Tauha Azmat - (https://twitter.com/tauha_official) - tauhazmat@gmail.com
 
-Project Link: [https://github.com/your_username/css-tips-and-tricks](https://github.com/your_username/css-tips-and-tricks)
-
 ## Acknowledgements
 
 - [CSS Tricks](https://css-tricks.com/)
